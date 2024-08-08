@@ -1,4 +1,3 @@
-#!/usr/bin/node
 // App server
 import express from 'express';
 import routesLoader from './routes/index';
