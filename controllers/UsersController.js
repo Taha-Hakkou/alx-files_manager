@@ -1,4 +1,3 @@
-#!/usr/bin/node
 // Users Controller
 import Queue from 'bull';
 import sha1 from 'sha1';
