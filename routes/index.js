@@ -1,4 +1,3 @@
-#!/usr/bin/node
 // App server routes
 import AppController from '../controllers/AppController';
 import UsersController from '../controllers/UsersController';
